@@ -1,0 +1,5 @@
+# Secure Boot
+
+* goefi
+
+* sbctl

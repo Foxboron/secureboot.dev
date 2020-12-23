@@ -1,0 +1,9 @@
+[book]
+authors = ["Morten Linderud"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Secure Boot"
+
+[output.html]
+no-section-label = true
