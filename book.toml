@@ -7,3 +7,4 @@ title = "Secure Boot"
 
 [output.html]
 no-section-label = true
+cname = "secureboot.dev"
