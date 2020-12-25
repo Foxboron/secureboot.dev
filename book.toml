@@ -4,6 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Secure Boot"
+git-repository-url = "https://github.com/foxboron/secureboot.dev"
 
 [output.html]
 no-section-label = true
